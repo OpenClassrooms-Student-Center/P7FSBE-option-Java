@@ -4,6 +4,8 @@ Application de suivi des transports de produits de santé (médicaments, disposi
 
 Version en production : 1.4.2.
 
+> **Dépôt de départ pédagogique.** Les comptes ci-dessous servent uniquement aux données de démonstration en local. Le code contient des protections volontairement incomplètes à diagnostiquer et à renforcer pendant la mission. Ne réutilisez pas ces identifiants hors de cet environnement.
+
 ## Prérequis
 
 - Java 25 (JDK)
