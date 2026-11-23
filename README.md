@@ -14,7 +14,7 @@ Maven n'a pas besoin d'être installé : le dépôt contient le wrapper `./mvnw`
 ## Installation
 
 ```bash
-git clone <url-du-depot> suivi-transports
+git clone https://github.com/OpenClassrooms-Student-Center/P7FSBE-option-Java.git suivi-transports
 cd suivi-transports
 cp .env.example .env
 docker compose up -d
